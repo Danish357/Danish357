@@ -40,7 +40,7 @@
   
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ritik307&hide=css,java,html&theme=vue-dark">
 </p>
- <img align="center" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rupam-Shil&theme=vue-dark">
+ <img align="center" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Danish357&theme=vue-dark">
 <img src="https://activity-graph.herokuapp.com/graph?username=Danish357&bg_color=00303f&color=1eae98&line=006a71&point=E1E8EB">
 
 
