@@ -24,31 +24,10 @@
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
-<h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
- 
-<br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Danish357&show_icons=true&theme=vue-dark&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ritik307&hide=css,java,html&theme=vue-dark">
- <br>
- <img align="center" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Danish357&theme=vue-dark">
- <br>
-</p>
-
- <img  align="right" src="https://activity-graph.herokuapp.com/graph?username=Danish357&bg_color=00303f&color=1eae98&line=006a71&point=E1E8EB">
-
-<br>
-&nbsp;&nbsp;
-<div align="center">
 
 
 ### Show some ❤️ by starring ⭐ some of the repositories!
 
-
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">]()
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">]()
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">]()
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">]()
+
 </div>
