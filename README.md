@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 <h1 align="center">Hi, I'm Danish Alam <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-<h3 align="center">I'm a Software and Web Developer from India ❤</h3>
+<h3 align="center">I'm a MERN STACK Developer from India ❤</h3>
 <h5 align="center">Self Starter & Quick Learner, Passionate about Coding & Technology as well as shipping my ideas into apps, Encouraging others to code. <br>Also a Gym lover and artist from heart.</h5>
 <img align="right" alt="Coding" width="200" src="https://github.com/Danish357/Danish357/blob/main/image/item_3320488_380.jpg">
 
