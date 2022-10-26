@@ -3,11 +3,9 @@
 <h1 align="center">Hi, I'm Danish Alam <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <h3 align="center">I'm a MERN STACK Developer from India ❤</h3>
 <h5 align="center">Self Starter & Quick Learner, Passionate about Coding & Technology as well as shipping my ideas into apps, Encouraging others to code. <br>Also a Gym lover and artist from heart.</h5>
-<img align="right" alt="Coding" width="200" src="https://github.com/Danish357/Danish357/blob/main/image/item_3320488_380.jpg">
+<h2 align="left">Technology Stack <img src="https://github.com/Danish357/Danish357/blob/main/image/YCZM.gif" width="50"></h2>
 
-   
-<h2 align="left">Technology Stack <img  align="right" src="https://github.com/Danish357/Danish357/blob/main/image/YCZM.gif" width="50"></h2>
-
+<img align="right" alt="Coding" width="200" src="https://github.com/Danish357/Danish357/blob/main/image/item_3320488_380.jpg">   
 <p align="center">
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
