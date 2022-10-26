@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="200" src="https://github.com/Danish357/Danish357/blob/main/image/item_3320488_380.jpg">
 
    
-<h2 align="center">Technology Stack <img src="https://github.com/Danish357/Danish357/blob/main/image/YCZM.gif" width="50"></h2>
+<h2 align="left">Technology Stack <img src="https://github.com/Danish357/Danish357/blob/main/image/YCZM.gif" width="50"></h2>
 
 <p align="center">
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
